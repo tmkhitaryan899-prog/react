@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": "3fg7",
+      "username": "admin",
+      "email": "admin@mail.ru",
+      "password": "Admin123@"
+    },
+    {
+      "id": "45b2",
+      "username": "user",
+      "email": "user@mail.ru",
+      "password": "User123@"
+    },
+    {
+      "id": "5080",
+      "username": "userr",
+      "email": "user2@mail.ru",
+      "password": "User1232@"
+    },
+    {
+      "id": "5d89",
+      "username": "kitog",
+      "email": "poghosyan@mail.ru",
+      "password": "Userr1234@"
+    },
+    {
+      "id": "9ac0",
+      "username": "sfdgshgrh",
+      "email": "ihg@maio.ru",
+      "password": "YTGHUFjhgjhg123@"
+    },
+    {
+      "id": "d079",
+      "username": "Auhhik",
+      "email": "safaf@mail.ru",
+      "password": "AAA123@as"
+    },
+    {
+      "id": "31b0",
+      "username": "afssaf",
+      "email": "asd@mail.ru",
+      "password": "Admin123@"
+    },
+    {
+      "id": "88be",
+      "username": "asdff",
+      "email": "asf@mail.ru",
+      "password": "Admin123@"
+    },
+    {
+      "id": "7218",
+      "username": "adsgfadg",
+      "email": "asfd@mail.ru",
+      "password": "Admin123@"
+    }
+  ],
+  "products": [
+    {
+      "id": "3a17",
+      "name": "asdfsdf",
+      "price": "324235",
+      "description": "fsdgsdgsdgsdgsdg"
+    },
+    {
+      "id": "1e62",
+      "name": "fdbgnbfgb",
+      "price": "4654455",
+      "description": "dfbdfbdfb"
+    },
+    {
+      "id": "a75d",
+      "name": "fdbgnbfgb",
+      "price": "4654455",
+      "description": "dfbdfbdfb"
+    },
+    {
+      "id": "ad70",
+      "name": "sdfsdvsdvberbbdfbedf",
+      "price": "2354325435",
+      "description": "saaaaaaaaaaaaaaaaaaaaaaaa"
+    }
+  ]
+}
